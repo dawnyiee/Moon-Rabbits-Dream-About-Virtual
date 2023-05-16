@@ -47,7 +47,7 @@
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
-    --bg-image: url(https://i.pinimg.com/originals/12/b0/17/12b0176f911f2f0dd724c9716e893e41.jpg); /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: url("https://i.pinimg.com/originals/12/b0/17/12b0176f911f2f0dd724c9716e893e41.jpg"); /* Write the image url, example url("your url") [none is default]*/
     --opacity: 1; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
